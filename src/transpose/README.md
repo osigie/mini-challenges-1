@@ -6,7 +6,7 @@ Given a 2D array A, with row m, and column n, convert all rows to columns and co
 
 ## Example
 
-Input:
+Input:  
 An array of integers.
 
 ```js
